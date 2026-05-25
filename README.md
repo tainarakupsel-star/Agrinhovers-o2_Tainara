@@ -19,6 +19,6 @@ O uso consciente da água no campo não é apenas uma responsabilidade ambiental
 
 # Agradecimento
 Agradeço o Programa Agrinho 2026, pelo incentivo à conscientização ambiental e por despertar nós jovens o interesse por temas tão importantes como o uso consciente da água no campo, ou como outros temas sobre o projeto que estão sendo desenvolvidos por todas as escolas.
-Meu sincero agradecimento asos professores que ajudaram a desenvolver esses projeto.
+Meu sincero agradecimento aos professores que ajudaram a desenvolver esses projeto.
 
  
