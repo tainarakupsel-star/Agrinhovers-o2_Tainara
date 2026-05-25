@@ -11,5 +11,14 @@ Você sabia que a agricultura consome cerca de 70% de toda a água utilizada no 
 # Justificativa
 Este projeto é importante porque o desperdício de água no campo afeta não apenas o meio ambiente, mas também a produção de alimentos e a vida dos agricultores. Com a escassez de água em várias regiões do Brasil, é urgente conscientizar os produtores rurais sobre práticas sustentáveis que economizam água, reduzem custos e preservam o recurso para as futuras gerações.
 
+# Licença
+Este projeto foi desenvolvido por Tainara Cristini Cardoso como parte de uma atividade escolar sobre o uso consciente da água no campo. Assim como a água deve ser compartilhada e preservada para todos, este trabalho também pode ser compartilhado para fins educacionais, desde que com responsabilidade e crédito ao autor.
+
 # Conclusão
 O uso consciente da água no campo não é apenas uma responsabilidade ambiental, mas também uma estratégia inteligente para garantir a continuidade da produção agrícola. Pequenas mudanças no dia a dia, como adotar a irrigação por gotejamento, captar água da chuva, reutilizar a água de limpeza, consertar vazamentos e regar as plantas nos horários certos, podem gerar grandes economias. Além de reduzir custos para o agricultor, essas práticas ajudam a preservar os rios, os lençóis freáticos e a água para as futuras gerações. Projetos como este mostram que é possível unir produtividade e sustentabilidade, e que o conhecimento é a principal ferramenta para transformar a realidade no campo.
+
+# Agradecimento
+Agradeço o Programa Agrinho 2026, pelo incentivo à conscientização ambiental e por despertar nós jovens o interesse por temas tão importantes como o uso consciente da água no campo, ou como outros temas sobre o projeto que estão sendo desenvolvidos por todas as escolas.
+meu sincero agradecimento asos professores que ajudaram a desenvolver esses projeto.
+
+ 
